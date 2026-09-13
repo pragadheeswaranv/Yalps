@@ -1,0 +1,6 @@
+{
+  "name": "Yalps",
+  "description": "Lossless high-fidelity audio streaming and creator platform featuring studio master audio, real-time backend synchronization, Stripe payment management, and Notion behavior analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
